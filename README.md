@@ -2,12 +2,12 @@
 
 A lightweight Python CLI project to monitor CPU, memory, and disk usage in real time.
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.8+
 - psutil
 
-## 🚀 Setup
+## Setup
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/sre-monitoring-dashboard.git
